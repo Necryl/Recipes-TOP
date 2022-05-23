@@ -1,0 +1,26 @@
+.item {
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(206, 100, 14);
+    text-decoration: none;
+}
+
+.head {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    background-color: rgb(46, 197, 172);
+    width: fit-content;
+    text-align: center;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.head, .item {
+    display: table;
+}
+
+.list {
+    text-align: center;
+    margin: 0 auto;
+    display: table;
+}

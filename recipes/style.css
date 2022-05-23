@@ -1,0 +1,28 @@
+.head {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+img {
+    height:7in;
+    width: 100%;
+    object-fit: cover;
+}
+
+h2, h3 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    font-size: 4ch;
+}
+
+h3 {
+    font-size: 3ch;
+    font-weight: 600;
+}
+
+p, li {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 3ch;
+}
